@@ -64,13 +64,13 @@ body {
 
 #submit {
     width: 150px;
-    padding: 5px;
     margin: 10px;
     height: 30px;
 }
 
 .btn {
     font-weight: 900;
+    font-size: inherit;
     text-transform: uppercase;
     background-color: rgb(245, 215, 45);
     border: none;
