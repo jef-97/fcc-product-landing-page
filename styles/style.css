@@ -122,3 +122,12 @@ h2 {
 .desc h2  {
     margin-bottom: 1px;
 }
+
+#how-it-works {
+    margin-top: 30px;
+}
+
+#video {
+    display: flex;
+    margin: 0 auto;
+}
