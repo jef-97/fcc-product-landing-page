@@ -170,3 +170,32 @@ li {
     padding: 4px;
 }
 
+footer {
+    margin-top: 50px;   
+    padding: 10px;
+    background-color: #cecece;
+}
+
+footer  ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0;
+}
+
+footer ul li {
+    padding: 0 15px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+span {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+    color: gray;
+}
+
+
