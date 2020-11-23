@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    padding: 0;
 }
 
 body {
@@ -131,3 +132,41 @@ h2 {
     display: flex;
     margin: 0 auto;
 }
+
+#pricing {
+    display: flex;
+    margin-top: 50px;
+}
+
+.product {
+    border: 1px solid black;
+    
+    padding-top: 0;
+    margin: 0 auto;
+    text-align: center;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+.button {
+    font-weight: 500;
+    width: 35%;
+    height: 35px;
+}
+
+.level {
+    background-color: #cecece;
+    text-transform: uppercase;
+    height: 50px;
+    font-weight: 900;
+    padding-top: 15px;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+li {
+    padding: 4px;
+}
+
